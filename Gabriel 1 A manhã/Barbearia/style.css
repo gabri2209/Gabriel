@@ -1,3 +1,27 @@
 body {
-    background-color: rgb(220, 247, 252);
+    background-color:grey;
+}
+
+
+#banner{
+    width:100%
+}
+
+
+
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+#missao{
+    font-size: 20px;
 }
